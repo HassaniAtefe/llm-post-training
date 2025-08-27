@@ -1,2 +1,2 @@
-# llm-post-training
-LLMs Post Training using TRL Library
+# llm-post-traininig
+LLMs Post-traininig with TRL
