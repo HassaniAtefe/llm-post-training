@@ -54,6 +54,8 @@ Good data is the key to making SFT work. Here are some common methods:
 - Sometimes, a mix of high and medium-quality data works if chosen carefully.
 
 
+![SFT](https://github.com/HassaniAtefe/llm-post-training/blob/01935ef3588bf57d90af310089e00ef265f5e067/sft.png)
+
 ### Direct Preference Optimisation (DPO) ![Post-training](https://img.shields.io/badge/post-training-green)
 Coming Soon :)
 
