@@ -28,8 +28,6 @@ You can use SFT when you want to:
    - Train small models on data created by larger, stronger models.
    - This helps smaller models perform better without needing huge amounts of data.
 
-
-
 **How to Prepare Data for SFT**
 
 Good data is the key to making SFT work. Here are some common methods:
@@ -45,14 +43,11 @@ Good data is the key to making SFT work. Here are some common methods:
    - Start with a large set of examples.
    - Remove low-quality or repetitive answers to keep only the best.
 
-
-
 **Quality vs. Quantity**
 
 - High-quality data matters more than lots of data.
 - A smaller set of 100,000 high-quality, diverse examples is better than a million low-quality examples.
 - Sometimes, a mix of high and medium-quality data works if chosen carefully.
-
 
 ![SFT](https://github.com/HassaniAtefe/llm-post-training/blob/01935ef3588bf57d90af310089e00ef265f5e067/sft.png)
 
