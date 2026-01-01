@@ -10,6 +10,8 @@ Post-training of LLMs allows us to enable the model to learn responses from cura
 
 ### Supervised Fine-Tuning (SFT) ![Post-training](https://img.shields.io/badge/post-training-green)
 
+![SFT](figs/sft.png)
+
 SFT stands for Supervised Fine-Tuning (Imitating example responses) trains a model on labelled prompt-response pairs. This method is effective for introducing new behaviours and making major changes to the model. It is a way to make AI models smarter and more helpful by training them on high-quality examples.
 
 **Best Use case for SFT**
@@ -48,8 +50,6 @@ Good data is the key to making SFT work. Here are some common methods:
 - High-quality data matters more than lots of data.
 - A smaller set of 100,000 high-quality, diverse examples is better than a million low-quality examples.
 - Sometimes, a mix of high and medium-quality data works if chosen carefully.
-
-![SFT](https://github.com/HassaniAtefe/llm-post-training/blob/01935ef3588bf57d90af310089e00ef265f5e067/sft.png)
 
 ### Direct Preference Optimisation (DPO) ![Post-training](https://img.shields.io/badge/post-training-green)
 Coming Soon :)
